@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task-performance-1</string>
+    <string name="button_send">SEND</string>
+    <string name="edit_message">MESSAGE</string>
+</resources>
